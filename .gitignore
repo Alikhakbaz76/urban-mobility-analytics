@@ -1,0 +1,28 @@
+Python cache files
+
+pycache/
+*.py[cod]
+
+Virtual environments
+
+.venv/
+venv/
+env/
+
+Editor and operating system files
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+macOS metadata
+
+__MACOSX/
+._*
+
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Raw datasets
+data/raw/*.csv
